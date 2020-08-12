@@ -1,5 +1,5 @@
 <p align="center">
   <a href="https://www.youtube.com/watch?v=fC7oUOUEEi4">
-    <img src="https://github.com/GHOSCHT/GHOSCHT/blob/master/main.gif" height=200>
+    <img src="https://github.com/GHOSCHT/GHOSCHT/blob/master/main.gif" height=150>
   </a>
 </p>
