@@ -1,7 +1,5 @@
-You see, I have a very high IQ. Do you want to know why? Well, I'll tell you anyways, I have a high IQ because I watch this amazing television show (which to my surprise piqued my interest unlike many other television shows) Rick and Morty. This show is remarkably intellectual (Like me, mind you) and not like any other animated shows. My most favorite joke from the show is "WUBALUBADUBDUB" it makes me giddy inside and knowing the common folk wont understand the joke makes me laugh even harder!
-
 <p align="center">
   <a href="https://www.youtube.com/watch?v=fC7oUOUEEi4">
-    <img src="https://github.com/GHOSCHT/GHOSCHT/blob/master/main.gif" height=150>
+    <img src="https://github.com/GHOSCHT/GHOSCHT/blob/master/main.gif" height=300>
   </a>
 </p>
