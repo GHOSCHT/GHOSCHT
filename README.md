@@ -2,6 +2,6 @@ You see, I have a very high IQ. Do you want to know why? Well, I'll tell you any
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=fC7oUOUEEi4">
-    <img src="https://media1.tenor.com/images/ec2f2e4c789262bc58d1fea7da20ab4f/tenor.gif" height=150>
+    <img src="./main.gif" height=150>
   </a>
 </p>
