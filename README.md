@@ -2,6 +2,6 @@ You see, I have a very high IQ. Do you want to know why? Well, I'll tell you any
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=fC7oUOUEEi4">
-    <img src="./main.gif" height=150>
+    <img src="https://github.com/GHOSCHT/GHOSCHT/blob/master/main.gif" height=150>
   </a>
 </p>
